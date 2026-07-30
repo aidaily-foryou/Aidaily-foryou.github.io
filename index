@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>AI Daily | Viral Tech Finds</title>
+  <meta name="description" content="Discover trending AI gadgets and the best tech deals.">
+  <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+
+<header class="hero">
+  <div class="container">
+    <h1>🤖 AI Daily</h1>
+    <p>Discover Viral AI Gadgets & Tech Finds</p>
+
+    <div class="buttons">
+      <a href="#products" class="btn">🔥 Shop Today's Deals</a>
+      <a href="https://www.instagram.com/aidailyforyou?igsh=MzBubjBieWtwamM3" target="_blank" class="btn btn-outline">📸 Follow Instagram</a>
+    </div>
+  </div>
+</header>
+
+<section id="products" class="products">
+  <div class="container">
+
+    <h2>🔥 Trending Products</h2>
+
+    <div class="product-card">
+      <h3>🎧 Trending Gadget #1</h3>
+      <p>Discover today's viral tech product.</p>
+      <a href="https://s.click.aliexpress.com/e/_c3iWxDtv" target="_blank" class="buy-btn">🛒 Buy Now</a>
+    </div>
+
+    <div class="product-card">
+      <h3>🖨️ Trending Gadget #2</h3>
+      <p>Must-have gadget for your collection.</p>
+      <a href="https://s.click.aliexpress.com/e/_c35aVr3H" target="_blank" class="buy-btn">🛒 Buy Now</a>
+    </div>
+
+    <div class="product-card">
+      <h3>💨 Trending Gadget #3</h3>
+      <p>One of the hottest products online.</p>
+      <a href="https://s.click.aliexpress.com/e/_c3kGPtTN" target="_blank" class="buy-btn">🛒 Buy Now</a>
+    </div>
+
+    <div class="product-card">
+      <h3>📷 Trending Gadget #4</h3>
+      <p>Smart technology at a great price.</p>
+      <a href="https://s.click.aliexpress.com/e/_c3m2EyVl" target="_blank" class="buy-btn">🛒 Buy Now</a>
+    </div>
+
+    <div class="product-card">
+      <h3>⚡ Trending Gadget #5</h3>
+      <p>Limited-time deal. Grab yours today.</p>
+      <a href="https://s.click.aliexpress.com/e/_c4cQgIAB" target="_blank" class="buy-btn">🛒 Buy Now</a>
+    </div>
+
+  </div>
+</section>
+
+<footer>
+  <div class="container">
+    <p>© 2026 AI Daily. All Rights Reserved.</p>
+    <a href="https://www.instagram.com/aidailyforyou?igsh=MzBubjBieWtwamM3" target="_blank">Follow @aidailyforyou</a>
+  </div>
+</footer>
+
+</body>
+</html>
